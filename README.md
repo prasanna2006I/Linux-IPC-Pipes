@@ -1,4 +1,4 @@
-![image](https://github.com/prasanna2006I/Linux-IPC-Pipes/assets/150161282/a1e23fd5-7d4b-40b0-bdcb-6bded9d3370e)# Linux-IPC--Pipes
+# Linux-IPC--Pipes
 Linux-IPC-Pipes
 
 
